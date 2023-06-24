@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ec2934577eddf74aa3a4384d73b9813, type: 3}
+  m_Name: DebugProjectile
+  m_EditorClassIdentifier: 
+  initialLifetime: 3
+  initialVelocity: {x: 21, y: 0}
+  initialAngularVelocity: 0
+  prefab: {fileID: 160530520522693720, guid: 831258723fb06d143a83ca8767f23c7b, type: 3}
